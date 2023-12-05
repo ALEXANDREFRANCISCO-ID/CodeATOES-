@@ -32,3 +32,29 @@ img{
 .bootstrap{
   background-color:
 }
+.butaa{
+  float: right;
+  background: #E53935;
+  border :none;
+ border-radius: 20px;
+ width :59px;
+ height :32px;
+  
+}
+.img{
+  width:50%;
+  height :90px;
+  
+}
+.u{
+
+  tex: center ;
+} 
+}
+.butoo{
+  background-color:#ffd215;
+}
+
+.h1{
+  font-size :3rem;
+}
